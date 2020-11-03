@@ -1,6 +1,9 @@
 # 이준범
-
-###### 이름: 이준범
-###### email : wns3884@naver.com
-###### university : hallym university
-
+----------------------------------
+기본정보/Basic info
+----------------------------------
+##### 남자 / 21세(2000.09)
+##### email : wns3884@naver.com
+##### university : hallym university
+##### github address:
+------------------------------------
